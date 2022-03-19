@@ -22,7 +22,7 @@ namespace LoginTSV.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Tu contacto de la pagina";
 
             return View();
         }
